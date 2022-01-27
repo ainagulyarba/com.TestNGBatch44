@@ -65,9 +65,7 @@ softAssert.assertAll();
 
 }
 
-@AfterClass
-    public void tearDown(){
-        driver.quit();
-}
+
+
 
 }

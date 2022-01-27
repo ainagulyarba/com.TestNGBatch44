@@ -40,7 +40,8 @@ public class Homework06 {
         driver.findElement(By.xpath("//a[@href='/windows/new']")).click();
 
         //● Acilan yeni pencerenin sayfa başlığının (title) “New Window” oldugunu dogrulayin.
-      String actualNewTitle=driver.getTitle();
+     WebElement text=driver.findElement(By.xpath("//h3[text()='New Window']"));
+      String actualNewTitle=text.getText();
       String expectedNewTitle="New Window";
       Assert.assertEquals(actualNewTitle,expectedNewTitle);
 
