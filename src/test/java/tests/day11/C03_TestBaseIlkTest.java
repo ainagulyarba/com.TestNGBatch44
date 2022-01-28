@@ -1,4 +1,4 @@
-package tests.day08.day11;
+package tests.day11;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;

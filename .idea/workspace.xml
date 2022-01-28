@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/day11/C01_WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/day11/C02_WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/day11/C03_TestBaseIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08/Homework06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08/odev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09/Homework07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/C01_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/C02_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/C03_TestBaseIlkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/Q07.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/Q07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/yy.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/yy.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework07.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Q07.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/C03_Dropdown.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C01_Allerts.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework06.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C02_BasicAuthentication.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/odev.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C03_IFrame.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C01_TestBaseKullanim.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/C01_Priority.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C02_MouseActions.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C01_DependsOnMethod.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C02_SoftAssertion.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Linkedin.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C03_SoftAssertion.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="249mgRdgct2wV3PTPEtGvG3QQgr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AYN\com.TestNGBatch44\src\test\java\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C03_MouseActions.test01">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_MouseActions.amazonList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C02_MouseActions" />
+      <option name="METHOD_NAME" value="amazonList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_MouseActions.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C03_MouseActions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q07" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="tests.Homework.Q07" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q07.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="tests.Homework.Q07" />
+      <option name="METHOD_NAME" value="setUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q07.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="tests.Homework.Q07" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C03_MouseActions.test01" />
+        <item itemvalue="TestNG.C02_MouseActions.amazonList" />
+        <item itemvalue="TestNG.Q07.test" />
+        <item itemvalue="TestNG.Q07" />
+        <item itemvalue="TestNG.Q07.setUp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="" />
+      <created>1643051295282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643051295282</updated>
+    </task>
+    <task id="LOCAL-00001" summary="v">
+      <created>1643061949168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643061949168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v">
+      <created>1643131928245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643131928246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v">
+      <created>1643233240497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643233240497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v">
+      <created>1643233485929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643233485929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v">
+      <created>1643324424720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643324424720</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v">
+      <created>1643324533952</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643324533952</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v">
+      <created>1643393423825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643393423825</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v">
+      <created>1643393728736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643393728736</updated>
+    </task>
+    <task id="LOCAL-00009" summary="v">
+      <created>1643394030237</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643394030237</updated>
+    </task>
+    <task id="LOCAL-00010" summary="v">
+      <created>1643394103550</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643394103550</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v" />
+    <option name="LAST_COMMIT_MESSAGE" value="v" />
+  </component>
+</project>

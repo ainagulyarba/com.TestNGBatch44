@@ -1,4 +1,4 @@
-package tests.day08.day11;
+package tests.day11;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.checkerframework.checker.units.qual.A;
