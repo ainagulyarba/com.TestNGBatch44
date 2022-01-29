@@ -1,4 +1,4 @@
-package tests.Homework;
+package tests.day08.Homework;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

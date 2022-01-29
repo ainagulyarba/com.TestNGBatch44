@@ -1,4 +1,4 @@
-package tests.Homework;
+package tests.day08.Homework;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -10,9 +10,11 @@ import utilities.TestBase;
 public class Homework09 extends TestBase {
 @Test
     public void test(){
-    //      //   1- https://www.facebook.com adresine gidelim
+
+    //    1- https://www.facebook.com adresine gidelim
     driver.get("https://www.facebook.com");
     driver.findElement(By.xpath("//button[@title='Tout accepter']")).click();
+
     //    2- Yeni hesap olustur butonuna basalim
     driver.findElement(By.xpath("(//a[@role='button'])[2]")).click();
 
