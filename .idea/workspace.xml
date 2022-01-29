@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/day11/C01_WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/day11/C02_WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/day11/C03_TestBaseIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08/Homework06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08/odev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09/Homework07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/C01_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/C02_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/C03_TestBaseIlkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/Q07.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/Q07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day11/yy.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day11/yy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day12/C03_MouseActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C03_MouseActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12/C03_MouseActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12/C03_MouseActions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +41,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework07.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Q07.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C06_FacebookKayit.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/C03_Dropdown.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C01_Allerts.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework06.java" root0="SKIP_INSPECTION" />
@@ -65,6 +58,7 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C02_SoftAssertion.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Linkedin.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C03_SoftAssertion.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C03_MouseActions.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -92,7 +86,7 @@
       <recent name="C:\Users\AYN\com.TestNGBatch44\src\test\java\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C03_MouseActions.test01">
+  <component name="RunManager" selected="TestNG.Homework09.test">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,24 +94,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_MouseActions.amazonList" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day12" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12.C02_MouseActions" />
-      <option name="METHOD_NAME" value="amazonList" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,34 +116,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q07" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_DragAndDrop.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.Homework.*" />
+          <option name="PATTERN" value="tests.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="tests.Homework.Q07" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q07.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="tests.Homework.Q07" />
-      <option name="METHOD_NAME" value="setUp" />
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C04_DragAndDrop" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -175,7 +134,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q07.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_KeyboardActions.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C05_KeyboardActions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_FacebookKayit.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C06_FacebookKayit" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework09.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
@@ -183,8 +178,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="tests.Homework.Q07" />
+      <option name="PACKAGE_NAME" value="tests.Homework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Homework.Homework09" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -195,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Homework09.test" />
+        <item itemvalue="TestNG.C06_FacebookKayit.test" />
+        <item itemvalue="TestNG.C05_KeyboardActions.test01" />
+        <item itemvalue="TestNG.C04_DragAndDrop.test01" />
         <item itemvalue="TestNG.C03_MouseActions.test01" />
-        <item itemvalue="TestNG.C02_MouseActions.amazonList" />
-        <item itemvalue="TestNG.Q07.test" />
-        <item itemvalue="TestNG.Q07" />
-        <item itemvalue="TestNG.Q07.setUp" />
       </list>
     </recent_temporary>
   </component>
