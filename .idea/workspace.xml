@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day13/C01_KeyboardActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C01_KeyboardActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day13/C01_KeyboardActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day13/C01_KeyboardActions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
