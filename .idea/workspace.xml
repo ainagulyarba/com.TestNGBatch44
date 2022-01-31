@@ -6,16 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Homework/Q07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Q07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Homework/odev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/odev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/Q07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/odev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day13/C01_KeyboardActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C01_KeyboardActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day13/C01_KeyboardActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day13/C01_KeyboardActions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +91,33 @@
       <recent name="C:\Users\AYN\com.TestNGBatch44\src\test\java\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C01_KeyboardActions">
+  <component name="RunManager" selected="Application.s">
+    <configuration name="f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.day13.f" />
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.day13.s" />
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,7 +164,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_FileUpload.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="f.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
@@ -155,43 +173,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C05_FileUpload" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_Synchronization" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_Synchronization.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.f" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -201,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.s" />
+        <item itemvalue="TestNG.f.test" />
+        <item itemvalue="Application.f" />
         <item itemvalue="TestNG.C01_KeyboardActions" />
         <item itemvalue="TestNG.C01_KeyboardActions.test" />
-        <item itemvalue="TestNG.C06_Synchronization" />
-        <item itemvalue="TestNG.C06_Synchronization.test01" />
-        <item itemvalue="TestNG.C05_FileUpload.test01" />
       </list>
     </recent_temporary>
   </component>
