@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javafaker_javafaker_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_23.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.TestNGBatch44.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.TestNGBatch44.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/Q07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08/Homework/odev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Homework/odev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day11/Q07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day11/yy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day13/C06_Synchronization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day13/C07_ExplicitlyWait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day13/f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day13/s.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day13/C06_Synchronization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day13/C07_ExplicitlyWait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day13/f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day13/s.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,29 +62,35 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework07.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework07.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C06_FacebookKayit.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/C03_Dropdown.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C01_Allerts.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework06.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework06.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C02_BasicAuthentication.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/Homework/odev.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/odev.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/C02_Faker.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C03_IFrame.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Linkedin.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C06_Synchronization.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/Q03_Cookies.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/C04_Screenshot.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C05_FileUpload.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/Homework/Q07.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C04_FileDownload.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/Homework/Homework09.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework09.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C01_KeyboardActions.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C01_TestBaseKullanim.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/C01_Priority.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C02_MouseActions.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Q01.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Q02.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Odev02.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Q04.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C01_DependsOnMethod.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C02_SoftAssertion.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/C01_ExlicitlyWait.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C03_SoftAssertion.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C03_MouseActions.java" root0="SKIP_INSPECTION" />
   </component>
@@ -83,6 +113,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
   </component>
   <component name="RecentsManager">
@@ -90,33 +121,7 @@
       <recent name="C:\Users\AYN\com.TestNGBatch44\src\test\java\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.s">
-    <configuration name="f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.day13.f" />
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.day13.s" />
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Q04">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,16 +133,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_KeyboardActions" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_Allerts.acceptAlertTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C01_KeyboardActions" />
+      <option name="PACKAGE_NAME" value="tests.day10" />
+      <option name="MAIN_CLASS_NAME" value="tests.day10.C01_Allerts" />
+      <option name="METHOD_NAME" value="acceptAlertTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Odev01.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Odev01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Odev02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Odev02" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -145,16 +186,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_KeyboardActions.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Odev02.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C01_KeyboardActions" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Odev02" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -163,18 +204,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="f.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q04" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.f" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q04" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -183,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.s" />
-        <item itemvalue="TestNG.f.test" />
-        <item itemvalue="Application.f" />
-        <item itemvalue="TestNG.C01_KeyboardActions" />
-        <item itemvalue="TestNG.C01_KeyboardActions.test" />
+        <item itemvalue="TestNG.Q04" />
+        <item itemvalue="TestNG.Odev02" />
+        <item itemvalue="TestNG.Odev02.test" />
+        <item itemvalue="TestNG.C01_Allerts.acceptAlertTesti" />
+        <item itemvalue="TestNG.Odev01.test" />
       </list>
     </recent_temporary>
   </component>
