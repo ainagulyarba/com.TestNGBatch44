@@ -6,10 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C01_Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C01_Screenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C02_ScreenshotWebelement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C02_ScreenshotWebelement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C03_ScreenshotKlasoru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C03_ScreenshotKlasoru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C04_JsExecuterClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C04_JsExecuterClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C05_JsExecutorScrolIntoView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C05_JsExecutorScrolIntoView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C01_Screenshot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C02_ScreenshotWebelement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C03_ScreenshotKlasoru.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C04_JsExecuterClick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C05_JsExecutorScrolIntoView.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +48,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework07.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day15/C02_ScreenshotWebelement.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/day15/C02_ScreenshotWebelement.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C06_FacebookKayit.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/C03_Dropdown.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day10/C01_Allerts.java" root0="SKIP_INSPECTION" />
@@ -55,12 +61,14 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day15/C05_JsExecutorScrolIntoView.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/day15/C05_JsExecutorScrolIntoView.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Ifram.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Linkedin.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day15/C01_Screenshot.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/day15/C01_Screenshot.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/Q03_Cookies.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/C04_Screenshot.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C05_FileUpload.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework10.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Faker.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C04_FileDownload.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework09.java" root0="SKIP_INSPECTION" />
@@ -72,7 +80,7 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Q02.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Odev02.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Q04.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day15/C03_ScreenshotKlasoru.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/day15/C03_ScreenshotKlasoru.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C01_DependsOnMethod.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/C02_SoftAssertion.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/C01_ExlicitlyWait.java" root0="SKIP_INSPECTION" />
@@ -106,7 +114,7 @@
       <recent name="C:\Users\AYN\com.TestNGBatch44\src\test\java\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C04_JsExecuterClick">
+  <component name="RunManager" selected="TestNG.Homework10">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,57 +122,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_Screenshot" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day15" />
-      <option name="MAIN_CLASS_NAME" value="tests.day15.C01_Screenshot" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_ScreenshotWebelement" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day15" />
-      <option name="MAIN_CLASS_NAME" value="tests.day15.C02_ScreenshotWebelement" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_ScreenshotKlasoru" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day15" />
-      <option name="MAIN_CLASS_NAME" value="tests.day15.C03_ScreenshotKlasoru" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,17 +143,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_JsExecuterClick.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework10" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day15.*" />
+          <option name="PATTERN" value="tests.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day15" />
-      <option name="MAIN_CLASS_NAME" value="tests.day15.C04_JsExecuterClick" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="tests.Homework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Homework.Homework10" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework10.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Homework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Homework.Homework10" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ifram" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Works.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Works" />
+      <option name="MAIN_CLASS_NAME" value="tests.Works.Ifram" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ifram.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Works.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Works" />
+      <option name="MAIN_CLASS_NAME" value="tests.Works.Ifram" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -206,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Homework10" />
+        <item itemvalue="TestNG.Ifram" />
+        <item itemvalue="TestNG.Homework10.test" />
+        <item itemvalue="TestNG.Ifram.test" />
         <item itemvalue="TestNG.C04_JsExecuterClick" />
-        <item itemvalue="TestNG.C04_JsExecuterClick.test01" />
-        <item itemvalue="TestNG.C03_ScreenshotKlasoru" />
-        <item itemvalue="TestNG.C02_ScreenshotWebelement" />
-        <item itemvalue="TestNG.C01_Screenshot" />
       </list>
     </recent_temporary>
   </component>
