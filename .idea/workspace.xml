@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C01_Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C01_Screenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C02_ScreenshotWebelement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C02_ScreenshotWebelement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C03_ScreenshotKlasoru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C03_ScreenshotKlasoru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C04_JsExecuterClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C04_JsExecuterClick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15/C05_JsExecutorScrolIntoView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C05_JsExecutorScrolIntoView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C01_Screenshot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C02_ScreenshotWebelement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C03_ScreenshotKlasoru.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C04_JsExecuterClick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15/C05_JsExecutorScrolIntoView.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Ifram.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Works/Linkedin.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day09/day15/C01_Screenshot.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/practice/Q08.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/Q03_Cookies.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day14/C04_Screenshot.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C05_FileUpload.java" root0="SKIP_INSPECTION" />
@@ -73,6 +65,7 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C04_FileDownload.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework09.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day13/C01_KeyboardActions.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/Homework/Homework11.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C01_TestBaseKullanim.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day08/C01_Priority.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day12/C02_MouseActions.java" root0="SKIP_INSPECTION" />
@@ -114,7 +107,7 @@
       <recent name="C:\Users\AYN\com.TestNGBatch44\src\test\java\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Homework10">
+  <component name="RunManager" selected="TestNG.Q09">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,24 +119,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_JsExecuterClick" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day15" />
-      <option name="MAIN_CLASS_NAME" value="tests.day15.C04_JsExecuterClick" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework10" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework11.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
@@ -152,7 +128,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.Homework" />
-      <option name="MAIN_CLASS_NAME" value="tests.Homework.Homework10" />
+      <option name="MAIN_CLASS_NAME" value="tests.Homework.Homework11" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q07.alertTesti1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q07" />
+      <option name="METHOD_NAME" value="alertTesti1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q08" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q08" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -160,16 +172,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework10.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q08.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.Homework.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.Homework" />
-      <option name="MAIN_CLASS_NAME" value="tests.Homework.Homework10" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q08" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -178,35 +190,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifram" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q09" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGBatch44" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.Works.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.Works" />
-      <option name="MAIN_CLASS_NAME" value="tests.Works.Ifram" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q09" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ifram.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNGBatch44" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.Works.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.Works" />
-      <option name="MAIN_CLASS_NAME" value="tests.Works.Ifram" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -215,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Homework10" />
-        <item itemvalue="TestNG.Ifram" />
-        <item itemvalue="TestNG.Homework10.test" />
-        <item itemvalue="TestNG.Ifram.test" />
-        <item itemvalue="TestNG.C04_JsExecuterClick" />
+        <item itemvalue="TestNG.Q09" />
+        <item itemvalue="TestNG.Q08.test" />
+        <item itemvalue="TestNG.Q08" />
+        <item itemvalue="TestNG.Q07.alertTesti1" />
+        <item itemvalue="TestNG.Homework11.test01" />
       </list>
     </recent_temporary>
   </component>
