@@ -1,4 +1,4 @@
-package tests.day09.day15;
+package tests.day15;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;

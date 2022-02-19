@@ -44,5 +44,7 @@ public class Homework10 extends TestBase {
         //      switch to first window
         driver.switchTo().window(windowHandleFirst);
 
+        driver.quit();
+
     }
 }
