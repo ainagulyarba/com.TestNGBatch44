@@ -6,21 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="202cbc7a-7f97-401a-908e-40639a395c2a" name="Changes" comment="v">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Homework/Homework11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C01_Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15/C01_Screenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C02_ScreenshotWebelement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15/C02_ScreenshotWebelement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C03_ScreenshotKlasoru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15/C03_ScreenshotKlasoru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C04_JsExecuterClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15/C04_JsExecuterClick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09/day15/C05_JsExecutorScrolIntoView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15/C05_JsExecutorScrolIntoView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practice/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/Homework/Homework11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09/day15/C01_Screenshot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09/day15/C02_ScreenshotWebelement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09/day15/C03_ScreenshotKlasoru.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09/day15/C04_JsExecuterClick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09/day15/C05_JsExecutorScrolIntoView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201083231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201083235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201083427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201083431.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201083936.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201083941.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201102518.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumSayfa220201102521.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/tumsayfa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenShot/webelement.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
